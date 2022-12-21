@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a web developer and designer with experience <br>in building and designing websites and mobile applications. <br>I have a strong background in HTML, CSS, JavaScript, and various<br>frameworks and libraries such as React and Bootstrap. <br>I also have experience in creating user interfaces and user experience<br>designs using Figma.
+Hi there! I'm a web developer and designer with experience in building and designing websites and mobile applications. I have a strong background in HTML, CSS, JavaScript, and various frameworks and libraries such as React and Bootstrap. I also have experience in creating user interfaces and user experience designs using Figma.
 
 
 ## 🌐 Socials:
