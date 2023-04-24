@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
-<h3 align="left">I'm a Front-end developer and designer with experience in building and designing websites and mobile applications. I have a strong background in HTML, CSS, JavaScript, and various frameworks and libraries such as React and Bootstrap. I also have experience in creating user interfaces and user experience designs using Figma.</h3>
+<h3 align="center">Computer Science Undergrad from Birla Institute of Science and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh18&label=Profile%20views&color=0e75b6&style=flat" alt="vansh18" /> </p>
 
